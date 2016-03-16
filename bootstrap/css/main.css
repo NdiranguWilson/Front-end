@@ -1,0 +1,30 @@
+/*
+* Cytonn Technologies
+* @author Ndirangu Wilson <wndirangu@cytonn.com>
+*
+*
+*
+*/
+
+
+
+body{
+
+  padding-top: 0.5%;
+  padding-left: 10%;
+  padding-right: 10%;
+  font: 14px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background: #080e24  repeat;
+}
+.description p{
+color: #ffffff;
+
+}
+.img-circle {
+ width:304 px;
+ height:236 px;
+}
+h1{
+
+  text-align: center;
+}
