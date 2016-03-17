@@ -13,8 +13,9 @@ body{
   padding-top: 0.5%;
   padding-left: 10%;
   padding-right: 10%;
-  font: 14px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: "Helvetica Neue", Helvetica, Arial, sans-serif;
   background: #080e24  repeat;
+  font-size:14 px ;
 }
 .description p{
 color: #ffffff;
@@ -25,6 +26,5 @@ color: #ffffff;
  height:236 px;
 }
 h1{
-
   text-align: center;
 }
